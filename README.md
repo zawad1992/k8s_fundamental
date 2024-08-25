@@ -253,6 +253,15 @@ Check the status of your nodes:
 kubectl get nodes -o wide
 ```
 
----
-
 Congratulations! You now have a functional Kubernetes cluster with Containerd as the container runtime.
+
+---
+### 18. Troubleshoot
+
+If you encounter any issues during the installation or operation of your Kubernetes cluster, refer to the following troubleshooting guides:
+
+- [Network Issues with Flannel in Kubernetes](link_to_flannel_network_issues.md)
+
+Ensure that your system's configurations align with the documentation, and review the Kubernetes logs for detailed error messages.
+
+---
