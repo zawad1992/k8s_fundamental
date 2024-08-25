@@ -260,7 +260,7 @@ Congratulations! You now have a functional Kubernetes cluster with Containerd as
 
 If you encounter any issues during the installation or operation of your Kubernetes cluster, refer to the following troubleshooting guides:
 
-- <a href="kubernetes_flannel_cidr_issue.md" target="_blank">Network Issues with Flannel in Kubernetes</a>
+- [Network Issues with Flannel in Kubernetes](kubernetes_flannel_cidr_issue.md)
 - [Failed to start ContainerManager failed](configure_systemd_cgroup_driver.md)
 
 
